@@ -1,9 +1,6 @@
 # Bienvenue sur mon profil GitHub! 🦇
 
-<p align="center">Découvrez mon profil git hub !</p>
-
-<p align="center">![file-YdQ7LtC47sqmHlm4rX7NYeVM](https://github.com/Ye4hL0w/Ye4hL0w/assets/100492944/24496317-1b09-425b-a60b-1d4b998c21a6)
-</p>
+<p align="center">✨ Voici mon profil git hub ! ✨</p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
