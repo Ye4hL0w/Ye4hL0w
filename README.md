@@ -1,4 +1,6 @@
-# Bienvenue sur mon profil GitHub! ⭐
+# Bienvenue sur mon profil GitHub! 🦇
+
+<p align="center">Découvrez mon profil git hub !</p>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
