@@ -1,8 +1,6 @@
 # Bienvenue sur mon profil GitHub!
 
 Voici un aperçu de mes compétences et expériences.
-
-## 💻 Informatique
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -44,6 +42,8 @@ Voici un aperçu de mes compétences et expériences.
             alt="mysql" width="40" height="40" />
     </a>
 </p>
+
+## 💻 Informatique
 
 - **Gestion de projet Agile**: Expérience en tant que Product Owner, gestion agile de projets avec Scrum.
 - **Développement informatique**: Compétences en Python, C, Java/JavaFx.
