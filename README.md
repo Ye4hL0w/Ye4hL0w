@@ -3,18 +3,6 @@
 Voici un aperçu de mes compétences et expériences.
 
 ## 💻 Informatique
-- **Gestion de projet Agile**: Expérience en tant que Product Owner, gestion agile de projets avec Scrum.
-- **Développement informatique**: Compétences en Python, C, Java/JavaFx.
-- **Développement d'interfaces web**: Création de sites web en HTML, CSS, PHP.
-- **Gestion de bases de données**: Expertise en SQL, MySQL, UML.
-
-## 🛠 Expérience Professionnelle
-
-### IUT de Nice | Développeur | 2022 – 2024
-- **Application Java/JavaFx**: Réalisation et coordination en tant que Product Owner dans une équipe de 8 étudiants.
-- **Moteur de recherche vectoriel**: Développé en Java avec une interface web HTML/CSS.
-- **Site web de traitement d'images**: Création en HTML pour traiter des images codées en langage C.
-
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -65,15 +53,17 @@ Voici un aperçu de mes compétences et expériences.
             alt="mysql" width="40" height="40" />
     </a>
 </p>
+- **Gestion de projet Agile**: Expérience en tant que Product Owner, gestion agile de projets avec Scrum.
+- **Développement informatique**: Compétences en Python, C, Java/JavaFx.
+- **Développement d'interfaces web**: Création de sites web en HTML, CSS, PHP.
+- **Gestion de bases de données**: Expertise en SQL, MySQL, UML.
 
-<div align="center">
-    <a
-        href="https://github-readme-stats.vercel.app/api/top-langs?username=rayanoutili&show_icons=true&locale=fr&layout=compact&theme=dark">
-        <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanoutili&show_icons=true&locale=fr&layout=compact&theme=dark"
-            alt="rayanoutili" style="width: 40%" height="auto" />
-    </a>
-</div>
+## 🛠 Expérience Professionnelle
+
+### IUT de Nice | Développeur | 2022 – 2024
+- **Application Java/JavaFx**: Réalisation et coordination en tant que Product Owner dans une équipe de 8 étudiants.
+- **Moteur de recherche vectoriel**: Développé en Java avec une interface web HTML/CSS.
+- **Site web de traitement d'images**: Création en HTML pour traiter des images codées en langage C.
 
 ---
 
