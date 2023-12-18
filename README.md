@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub!
+# Bienvenue sur mon profil GitHub! ⭐
 
 Voici un aperçu de mes compétences et expériences.
 <p align="center">
