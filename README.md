@@ -53,6 +53,7 @@ Voici un aperçu de mes compétences et expériences.
             alt="mysql" width="40" height="40" />
     </a>
 </p>
+
 - **Gestion de projet Agile**: Expérience en tant que Product Owner, gestion agile de projets avec Scrum.
 - **Développement informatique**: Compétences en Python, C, Java/JavaFx.
 - **Développement d'interfaces web**: Création de sites web en HTML, CSS, PHP.
